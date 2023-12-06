@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQiLL+m+KUXThdR/7ejXeEygAhpUg4z3KZnNrj/FKewX7QS3WayzyQ9F0Omu5w3eE13Z9jQbdjbvkKPrt82NkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\יד ושם\\server\\entrance to the museum\\entrance to the museum\\entrance to the museum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

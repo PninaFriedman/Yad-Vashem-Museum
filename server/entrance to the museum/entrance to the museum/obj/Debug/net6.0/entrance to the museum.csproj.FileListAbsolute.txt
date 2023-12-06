@@ -1,0 +1,30 @@
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\entrance to the museum.exe
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\entrance to the museum.deps.json
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\entrance to the museum.runtimeconfig.json
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\entrance to the museum.dll
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\entrance to the museum.pdb
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.AssemblyInfo.cs
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\scopedcss\bundle\entrance to the museum.styles.css
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.dll
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\refint\entrance to the museum.dll
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.pdb
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.genruntimeconfig.cache
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\ref\entrance to the museum.dll
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\obj\Debug\net6.0\entrance to the museum.csproj.CopyComplete
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\entities.dll
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\entities.pdb
+C:\Users\USER\Desktop\יד ושם\server\entrance to the museum\entrance to the museum\bin\Debug\net6.0\Newtonsoft.Json.dll

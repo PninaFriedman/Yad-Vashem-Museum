@@ -1,0 +1,22 @@
+<div class="app-table">
+  <mat-tab-group>
+    <ng-container *ngFor="let timeSlot of timeSlots; let i = index">
+      <mat-tab [label]="timeSlot.label">
+        <section>
+          <div ngFor class="example-button-row">
+            <button mat-raised-button *ngFor="let item of timeSlot.items"
+              [disabled]="item.availablePlaces === 0 || item.isClosed || item.availablePlaces<number"
+              [ngClass]="{'inactive': item.availablePlaces === 0 || item.isClosed}"
+              (click)="sendStartTime(item.startTime)">
+              {{ item.startTime }} <br>
+              <ng-container *ngIf="item.availablePlaces !== 0; else soldOut">
+               {{ item.availablePlaces }} כרטיסים 
+              </ng-container>
+              <ng-template #soldOut>אזלו</ng-template>
+            </button>
+          </div>
+        </section>
+      </mat-tab>
+    </ng-container>
+  </mat-tab-group>
+</div>

@@ -1,0 +1,12 @@
+mat-tab-group {
+  background-color: white;
+}
+
+.example-button-row {
+  margin-bottom: 10px;
+}
+
+
+.example-button-row button {
+  margin-right: 10px;
+}

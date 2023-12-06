@@ -1,0 +1,14 @@
+html,
+body {
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background-color: blue;
+    color: white;
+}
